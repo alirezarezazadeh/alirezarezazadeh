@@ -2,8 +2,7 @@
 ### I'm a Developer, and CE Student!!
 
 
-### Languages and Tools:
-### ![image](https://user-images.githubusercontent.com/70809713/121249914-60e49f00-c8ba-11eb-9125-7fa40f62d985.png)
+
 
 <!--
 **alirezarezazadeh/alirezarezazadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
