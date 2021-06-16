@@ -2,7 +2,6 @@
 ### I'm a Developer, and CE Student💻!! 
 
 
-###        ![fb61b5869d7192528104009eba8573f5](https://user-images.githubusercontent.com/70809713/121736962-7d2c4a00-cb0d-11eb-9fa6-20b5d0d65c9d.gif)
 
 
 <!--
