@@ -1,5 +1,5 @@
 ### Hi there, I'm Alireza 👋
-### I'm a Developer ⌨️, and CE Student💻
+### I'm a Front End Developer ⌨️, and CE Student💻
 
 - My main language is JavaScript 💛
 - I Love Video Games 🕹️
