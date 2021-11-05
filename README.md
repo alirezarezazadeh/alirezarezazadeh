@@ -3,4 +3,4 @@
 
 - My main language is JavaScript 💛
 - I Love Video Games 🕹️
-- Currently Working on my Personal Project 👨🏼‍💻
+- Currently Working on Personal Project 👨🏼‍💻
